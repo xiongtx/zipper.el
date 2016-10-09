@@ -1,0 +1,20 @@
+* Zipper
+
+** Introduction
+
+An implementation of the [[https://en.wikipedia.org/wiki/Zipper_(data_structure)][zipper]] data structure, as [[https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf][described by Gerard Huet]].
+
+** References
+
+Aside from Huet's paper, this implementation is modeled on:
+
+- Clojure's =[[https://github.com/clojure/clojure/blob/master/src/clj/clojure/zip.clj][clojure.zip]]=
+- Daniel Martin's =[[https://github.com/danielfm/cl-zipper][cl-zipper]]=
+
+See also:
+
+- [[http://josf.info/blog/2014/03/21/getting-acquainted-with-clojure-zippers/][Joseph Fahey's introduction]] to Clojure zippers
+- [[https://tbaldridge.pivotshare.com/media/zippers-episode-1/11348/feature][Timothy Baldridge's tutorial]] on Clojure zippers
+
+
+
